@@ -1,0 +1,162 @@
+[
+  {
+    "chunk_id": "orchid_mantis_bg_001",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "basic",
+    "chunk_type": "basic_fact",
+    "text": "兰花螳螂是一种外形很特别的螳螂。它的身体颜色和形状像花瓣，常被人叫作像兰花一样的昆虫。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_002",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "habitat",
+    "chunk_type": "habitat_fact",
+    "text": "兰花螳螂主要生活在东南亚的热带地区，常出现在树叶、枝条和开花植物附近。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_003",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "appearance",
+    "chunk_type": "body_fact",
+    "text": "兰花螳螂的腿部像花瓣，身体有白色、粉色或浅紫色等颜色。这样的外形能帮助它融入植物环境。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_004",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "appearance",
+    "chunk_type": "body_fact",
+    "text": "兰花螳螂小时候和长大后的颜色可能不同。它的外形会随着成长发生变化。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_005",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "mimicry",
+    "chunk_type": "concept_fact",
+    "text": "兰花螳螂像花的样子属于拟态。拟态不是变成真的花，而是外形、颜色或姿态看起来像环境中的东西。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_006",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "mimicry",
+    "chunk_type": "survival_fact",
+    "text": "兰花螳螂的拟态可以帮助它在植物上不那么显眼。这样既可能减少被敌人发现，也可能帮助它等待猎物靠近。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_007",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "mimicry",
+    "chunk_type": "critical_fact",
+    "text": "不能简单说兰花螳螂像花只是为了躲起来。它的外形和生存、捕食、环境隐藏等多个方面有关。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_008",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "food",
+    "chunk_type": "food_fact",
+    "text": "兰花螳螂是捕食性昆虫，常捕食小昆虫，例如苍蝇、蜜蜂、蝴蝶和其他靠近的小虫。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_009",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "hunting",
+    "chunk_type": "behavior_fact",
+    "text": "兰花螳螂捕食时常安静等待。等小昆虫靠近后，它会用前肢快速抓住猎物。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_010",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "hunting",
+    "chunk_type": "behavior_fact",
+    "text": "兰花螳螂不会像花一样产生花蜜。小昆虫靠近它，主要是被外形、颜色或周围环境吸引。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_011",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "body",
+    "chunk_type": "body_fact",
+    "text": "兰花螳螂和其他螳螂一样，有会抓握的前肢。它的前肢适合快速抓住靠近的小猎物。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_012",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "body",
+    "chunk_type": "body_fact",
+    "text": "兰花螳螂有昆虫的基本身体结构，包括头部、胸部、腹部和三对足。它不是植物，也不是花。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_013",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "predators",
+    "chunk_type": "survival_fact",
+    "text": "兰花螳螂也会遇到危险。鸟类、蜥蜴、蜘蛛或更大的捕食者都可能威胁它。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_014",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "defense",
+    "chunk_type": "survival_fact",
+    "text": "兰花螳螂遇到危险时，外形像花和植物的一部分，可能帮助它降低被发现的机会。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_015",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "growth",
+    "chunk_type": "life_cycle_fact",
+    "text": "兰花螳螂从卵中孵化，幼虫会一次次蜕皮长大。蜕皮后身体会变软，需要一点时间变硬。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_016",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "reproduction",
+    "chunk_type": "life_cycle_fact",
+    "text": "雌性兰花螳螂会产卵，卵通常被包在像泡沫一样的卵鞘里。卵鞘能保护里面的小生命。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_017",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "sex_difference",
+    "chunk_type": "body_fact",
+    "text": "兰花螳螂雌雄体型可能差别很大。雌性通常更大，雄性通常更小、更轻。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_018",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "behavior",
+    "chunk_type": "behavior_fact",
+    "text": "兰花螳螂常常安静地停在植物附近。它不是一直追着猎物跑，而是等待合适的机会。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_019",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "critical_thinking",
+    "chunk_type": "critical_fact",
+    "text": "看到兰花螳螂像花，不能马上判断它就是花。判断生物行为时，要把外形、环境和行为放在一起看。"
+  },
+  {
+    "chunk_id": "orchid_mantis_bg_020",
+    "creature_id": "orchid_mantis",
+    "creature": "兰花螳螂",
+    "topic": "critical_thinking",
+    "chunk_type": "critical_fact",
+    "text": "如果只说兰花螳螂像花是为了漂亮，就忽略了生存原因。动物的外形常常和保护自己、寻找食物有关。"
+  }
+]

@@ -1,0 +1,10 @@
+项目采用模块化设计，通过 `GameEvents` 事件总线实现各组件解耦。
+核心模块包括
+    `Core` (事件系统), 
+    `Dialogue` (对话管理，支持本地JSON和后端API，集成TTS),
+    `GameManager` (输入、UI、状态管理), 
+    `Objects` (可拖拽物体) 
+    `Player` (玩家控制与交互，摄像机跟随),
+    `UI` (摇杆和按钮)
+
+1.`Core`

@@ -1,0 +1,216 @@
+{
+  "case_id": "opossum_play_dead_001",
+  "creature": "负鼠",
+  "critical_question": "负鼠“装死”是真的晕倒了吗？",
+  "age_range": "6-9",
+  "teaching_content": {
+    "phenomenon_intro": {
+      "text": "负鼠遇到危险时会一动不动，看起来像死了一样。",
+      "prompt": "它是真的晕倒了吗，还是在用一种保护自己的办法？"
+    },
+    "knowledge_card": {
+      "text": [
+        "有些动物遇到危险时，不一定马上逃跑。",
+        "它们可能会用伪装、变色、发光、装死等方式保护自己。"
+      ]
+    },
+    "controlled_wrong_claim": {
+      "id": "wrong_real_fainted",
+      "related_option_id": "sudden_fainting",
+      "error_type": "surface_appearance_error",
+      "claim": "负鼠一动不动，应该是真的吓晕了。",
+      "agent_line": "我觉得负鼠是真的吓晕了，所以才完全不能动。"
+    },
+    "correct_explanation": {
+      "claim": "负鼠的“装死”更像是一种遇到危险时的防御反应，不能只凭一动不动就判断它真的晕倒了。",
+      "key_points": [
+        "一动不动只是表面现象",
+        "这个行为可能和保护自己有关",
+        "判断原因需要更多证据"
+      ]
+    },
+    "analogy": {
+      "text": "看到动物不动，不一定代表它真的死了。就像玩具不动，也可能只是暂时没有开关。"
+    },
+    "evidence_cards": [
+      {
+        "id": "e1_body_stiff",
+        "title": "身体变僵",
+        "content": "负鼠遇到危险时，身体可能会变僵，看起来像不能动。",
+        "supports_concepts": ["surface_is_not_cause"],
+        "refutes_wrong_claims": ["wrong_real_fainted"],
+        "aliases": ["身体变僵", "很僵硬", "一动不动", "不能动"]
+      },
+      {
+        "id": "e2_recover_later",
+        "title": "危险后恢复",
+        "content": "危险过去后，负鼠可能会慢慢恢复活动。",
+        "supports_concepts": ["not_true_death_or_fainting"],
+        "refutes_wrong_claims": ["wrong_real_fainted"],
+        "aliases": ["恢复", "危险过去", "后来会动", "慢慢活动"]
+      },
+      {
+        "id": "e3_predator_interest",
+        "title": "捕食者可能失去兴趣",
+        "content": "有些捕食者更喜欢追逐会动的猎物，看到像死了一样的动物，可能会放弃。",
+        "supports_concepts": ["defense_behavior"],
+        "refutes_wrong_claims": ["wrong_real_fainted"],
+        "aliases": ["捕食者", "保护自己", "放弃", "防御", "生存"]
+      }
+    ],
+    "concepts": [
+      {
+        "id": "surface_is_not_cause",
+        "text": "不能只凭表面样子判断真实原因",
+        "aliases": ["不能只看表面", "看起来不一定是真的", "不能只看它不动"]
+      },
+      {
+        "id": "not_true_death_or_fainting",
+        "text": "一动不动不等于真的死亡或晕倒",
+        "aliases": ["不是晕倒", "不是真的死了", "不是死了"]
+      },
+      {
+        "id": "defense_behavior",
+        "text": "装死可能是一种遇到危险时的防御行为",
+        "aliases": ["保护自己", "防御", "遇到危险", "吓走敌人"]
+      }
+    ],
+    "misconception_patterns": [
+      "它真的死了",
+      "它就是晕倒",
+      "它在睡觉",
+      "它很懒",
+      "它想演戏"
+    ],
+    "repair_lines": {
+      "with_child_evidence": "你说得有道理。只看到负鼠一动不动，还不能说明它是真的晕倒了。",
+      "self_correction": "等一下，我好像说得太快了。我们还需要更多线索。"
+    },
+    "final_conclusion": {
+      "text": "看到动物的奇怪行为时，不能只看表面。我们要想一想：这个行为是不是在帮助它生存？"
+    }
+  },
+  "step3_initial_judgement": {
+    "question": "负鼠遇到危险时一动不动，最可能是因为什么？",
+    "options": [
+      {
+        "id": "intentional_acting",
+        "text": "它在故意表演骗敌人",
+        "is_correct": false
+      },
+      {
+        "id": "defense_response",
+        "text": "它的身体进入了防御反应",
+        "is_correct": true
+      },
+      {
+        "id": "sudden_fainting",
+        "text": "它只是突然睡着了或晕倒了",
+        "is_correct": false
+      }
+    ]
+  },
+  "critical_focus": {
+    "id": "opossum_freeze_when_scared",
+    "question": "负鼠遇到危险时一动不动，最可能是因为什么？",
+    "trigger_rules": {
+      "critical_reason_phrases": [
+        "为什么一动不动",
+        "为什么不动",
+        "为什么装死",
+        "为啥一动不动",
+        "为啥不动",
+        "为啥装死",
+        "为什么不跑",
+        "怎么一动不动",
+        "怎么不动",
+        "装死的原因"
+      ],
+      "misconception_phrases": [
+        "是不是晕倒",
+        "真的晕倒",
+        "是不是吓晕",
+        "真的吓晕",
+        "是不是死了",
+        "真的死了",
+        "是不是睡着",
+        "真的睡着"
+      ],
+      "phenomenon_terms": [
+        "一动不动",
+        "不动",
+        "装死",
+        "像死",
+        "不跑"
+      ],
+      "reason_terms": [
+        "为什么",
+        "为啥",
+        "原因",
+        "怎么会",
+        "怎么就"
+      ],
+      "broad_context_terms": [
+        "危险",
+        "天敌",
+        "敌人",
+        "害怕",
+        "受惊",
+        "遇到危险"
+      ]
+    },
+    "controlled_wrong_claim": {
+      "id": "wrong_real_fainted",
+      "related_option_id": "sudden_fainting",
+      "claim": "我觉得负鼠是真的吓晕了，所以才完全不能动。"
+    },
+    "correct_claim": "负鼠一动不动，更像是受到强烈惊吓后身体进入防御反应，不是普通的演戏，也不一定是真的晕倒。",
+    "repair_clues": [
+      "负鼠遇到强烈惊吓时，身体可能会变僵，看起来像死了一样。",
+      "危险过去后，负鼠可能会慢慢恢复活动。",
+      "有些捕食者对一动不动、看起来不新鲜的猎物兴趣会下降。"
+    ]
+  },
+  "step4_chat_policy": {
+    "min_free_rounds": 2,
+    "socratic_start_round": 4,
+    "force_focus_round": 5,
+    "early_forbidden_terms": [
+      "装死",
+      "一动不动",
+      "像死",
+      "吓晕",
+      "晕倒",
+      "防御反应",
+      "演技派"
+    ],
+    "allowed_rag_topics": [
+      "basic",
+      "body",
+      "habits",
+      "food",
+      "predators",
+      "breeding",
+      "defense_general",
+      "special_phenomenon_surface"
+    ],
+    "socratic_prompts": [
+      "我们刚才聊到负鼠的天敌。如果它遇到狐狸或猫头鹰，你觉得它会怎么做？",
+      "有些负鼠遇到强烈惊吓时会突然一动不动，看起来像死了一样。你觉得这是为什么？"
+    ],
+    "reflection_choices": [
+      {
+        "id": "agree",
+        "text": "接受"
+      },
+      {
+        "id": "revise",
+        "text": "寻找线索"
+      },
+      {
+        "id": "reject",
+        "text": "怀疑一下"
+      }
+    ]
+  }
+}

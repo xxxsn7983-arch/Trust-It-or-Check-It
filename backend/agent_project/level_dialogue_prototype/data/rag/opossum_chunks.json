@@ -1,0 +1,370 @@
+[
+  {
+    "chunk_id": "opossum_bg_001",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "basic_fact",
+    "topic": "basic",
+    "text": "负鼠是一类有袋动物，主要分布在美洲。它们通常在夜晚出来活动，白天多藏在树洞、灌木丛、旧洞穴或建筑物附近。"
+  },
+  {
+    "chunk_id": "opossum_bg_002",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "body_fact",
+    "topic": "body",
+    "text": "负鼠有尖尖的口鼻、长尾巴和灵活的爪子。它们会爬树，尾巴可以帮助保持平衡，但不会像手一样一直抓住树枝。"
+  },
+  {
+    "chunk_id": "opossum_bg_003",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "body_fact",
+    "topic": "body",
+    "text": "负鼠的嘴里有很多牙齿。遇到危险时，它可能会张大嘴巴、露出牙齿，让自己看起来不好惹。"
+  },
+  {
+    "chunk_id": "opossum_bg_004",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "habitat_fact",
+    "topic": "habits",
+    "text": "负鼠适应力很强，可以生活在树林、草地、农场附近，也可能出现在城市边缘。它们常在夜间寻找食物。"
+  },
+  {
+    "chunk_id": "opossum_bg_005",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "habit_fact",
+    "topic": "habits",
+    "text": "负鼠多在夜间活动。夜晚比较安静，也比较容易避开一些白天活动的动物。"
+  },
+  {
+    "chunk_id": "opossum_bg_006",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "habit_fact",
+    "topic": "habits",
+    "text": "负鼠通常不是很强壮的猎手。它们更多是边走边找食物，也会利用别人留下的食物。"
+  },
+  {
+    "chunk_id": "opossum_bg_007",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "food_fact",
+    "topic": "food",
+    "text": "负鼠是杂食动物，会吃昆虫、蠕虫、果实、鸟蛋、小型动物和腐肉。它们不太挑食，会在不同环境里寻找能吃的东西。"
+  },
+  {
+    "chunk_id": "opossum_bg_008",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "food_fact",
+    "topic": "food",
+    "text": "负鼠有时会吃掉地上的腐肉或掉落的果子。它们像自然里的清理员，会利用很多容易找到的食物。"
+  },
+  {
+    "chunk_id": "opossum_bg_009",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "food_fact",
+    "topic": "food",
+    "text": "负鼠也会吃一些昆虫和小虫子。对它来说，小而容易找到的食物很重要。"
+  },
+  {
+    "chunk_id": "opossum_bg_010",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "predator_fact",
+    "topic": "predators",
+    "text": "负鼠可能会遇到猫头鹰、狐狸、郊狼、狗、猫等天敌。遇到危险时，它可能先逃跑、爬树、张嘴露牙，或发出声音。"
+  },
+  {
+    "chunk_id": "opossum_bg_011",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "predator_fact",
+    "topic": "predators",
+    "text": "猫头鹰和一些猛禽可能会在夜间捕食小动物。负鼠夜晚活动时，也可能遇到这样的危险。"
+  },
+  {
+    "chunk_id": "opossum_bg_012",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "predator_fact",
+    "topic": "predators",
+    "text": "狐狸、郊狼和狗可能会追赶负鼠。负鼠跑得不一定很快，所以它需要不同的办法应对危险。"
+  },
+  {
+    "chunk_id": "opossum_bg_013",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_fact",
+    "topic": "defense_general",
+    "text": "负鼠面对危险时不总是只用一种办法。它可能先逃跑、露牙、发出声音；在强烈威胁下，也可能出现一动不动的状态。"
+  },
+  {
+    "chunk_id": "opossum_bg_014",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_fact",
+    "topic": "defense_general",
+    "text": "负鼠张嘴露牙时，看起来有点吓人。这个样子可能让靠近它的动物犹豫一下。"
+  },
+  {
+    "chunk_id": "opossum_bg_015",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "breeding_fact",
+    "topic": "breeding",
+    "text": "负鼠是有袋动物。小负鼠出生时非常小，会爬到妈妈腹部的育儿袋里，在袋子里继续长大。"
+  },
+  {
+    "chunk_id": "opossum_bg_016",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "young_fact",
+    "topic": "breeding",
+    "text": "小负鼠长大一些后，可能会趴在妈妈背上一起移动。这个画面常让人觉得它们像背着一串小宝宝。"
+  },
+  {
+    "chunk_id": "opossum_bg_017",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "breeding_fact",
+    "topic": "breeding",
+    "text": "负鼠妈妈的育儿袋像一个安全的小房间。刚出生的小负鼠还很弱，需要在袋子里继续发育。"
+  },
+  {
+    "chunk_id": "opossum_bg_018",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "misleading_name_fact",
+    "topic": "basic",
+    "text": "中文里的“负鼠”和普通老鼠不是同一种动物。负鼠是有袋动物，和老鼠的分类不一样。"
+  },
+  {
+    "chunk_id": "opossum_bg_019",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "behavior_fact",
+    "topic": "habits",
+    "text": "负鼠通常独自活动，不太像群居动物那样成群结队。它们会在自己的活动范围里寻找食物和藏身处。"
+  },
+  {
+    "chunk_id": "opossum_bg_020",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_surface_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "负鼠受到强烈惊吓时，有时会一动不动，身体变僵，张开嘴，看起来像死了一样。"
+  },
+  {
+    "chunk_id": "opossum_bg_021",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_surface_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "负鼠一动不动时，旁边的动物可能会以为它已经死了。只看这个样子，很容易让人做出错误判断。"
+  },
+  {
+    "chunk_id": "opossum_bg_022",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_surface_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "负鼠在这种状态下可能会张开嘴，身体很僵，还可能流出口水。这个样子会让它看起来不像一只正在活动的动物。"
+  },
+  {
+    "chunk_id": "opossum_bg_023",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_surface_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "有些捕食者更容易被会动的猎物吸引。一个一动不动、看起来不新鲜的动物，可能让它们没那么感兴趣。"
+  },
+  {
+    "chunk_id": "opossum_bg_024",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "recovery_surface_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "危险过去后，负鼠可能会慢慢恢复活动。这个变化说明，只看它刚才一动不动的样子，还不能马上下结论。"
+  },
+  {
+    "chunk_id": "opossum_bg_025",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "question_support_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "看到负鼠一动不动时，可以继续追问：它之前遇到了什么？旁边有没有天敌？过一会儿它会不会恢复活动？"
+  },
+  {
+    "chunk_id": "opossum_bg_026",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "child_question_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "如果有人说负鼠一定是故意表演，或者一定是真的晕倒了，都还需要更多线索。表面看起来像，不一定就是全部原因。"
+  },
+  {
+    "chunk_id": "opossum_bg_027",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "basic_fact",
+    "topic": "basic",
+    "text": "北美常见的负鼠叫弗吉尼亚负鼠，是北美唯一常见的有袋类动物。它和袋鼠一样，宝宝会在育儿袋里继续发育。"
+  },
+  {
+    "chunk_id": "opossum_bg_028",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "habitat_fact",
+    "topic": "habitat",
+    "text": "负鼠喜欢能藏身又容易找食物的地方，例如树林边缘、河沟附近、灌木丛、农场和人类居住区附近。"
+  },
+  {
+    "chunk_id": "opossum_bg_029",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "shelter_fact",
+    "topic": "habitat",
+    "text": "负鼠通常不会自己挖很深的洞。它们常利用树洞、石缝、空木头、旧巢穴或建筑物缝隙作为临时藏身处。"
+  },
+  {
+    "chunk_id": "opossum_bg_030",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "body_fact",
+    "topic": "body",
+    "text": "负鼠脚上的趾和爪子适合抓握树皮。后脚有一个像拇指一样的趾，可以帮助它在树枝上移动。"
+  },
+  {
+    "chunk_id": "opossum_bg_031",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "tail_fact",
+    "topic": "body",
+    "text": "负鼠的尾巴能帮助保持平衡，也能卷住小树枝或搬一些巢材。成年负鼠通常不会只靠尾巴长时间倒挂。"
+  },
+  {
+    "chunk_id": "opossum_bg_032",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "body_fact",
+    "topic": "body",
+    "text": "负鼠的耳朵比较薄，鼻子灵敏。夜间活动时，嗅觉能帮助它寻找食物、发现同类留下的气味和避开危险。"
+  },
+  {
+    "chunk_id": "opossum_bg_033",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "food_fact",
+    "topic": "food",
+    "text": "负鼠会吃很多种食物，包括昆虫、蜗牛、蛞蝓、果实、种子、小型脊椎动物和动物尸体。食物种类多有助于它适应不同环境。"
+  },
+  {
+    "chunk_id": "opossum_bg_034",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "food_fact",
+    "topic": "food",
+    "text": "在人类居住区附近，负鼠可能会翻找垃圾、宠物食盆或掉在地上的水果。它不是只吃一种食物的动物。"
+  },
+  {
+    "chunk_id": "opossum_bg_035",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "habit_fact",
+    "topic": "habits",
+    "text": "负鼠大多独自行动，活动范围会随着食物和藏身处改变。它们通常不会像狼群那样一起配合捕猎。"
+  },
+  {
+    "chunk_id": "opossum_bg_036",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "habit_fact",
+    "topic": "habits",
+    "text": "负鼠主要在夜间活动，但这不代表白天完全不会出现。天气、食物和安全情况都可能影响它出来的时间。"
+  },
+  {
+    "chunk_id": "opossum_bg_037",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "predator_fact",
+    "topic": "predators",
+    "text": "幼小负鼠更容易遇到危险。猫头鹰、蛇、狐狸、郊狼、狗和猫都可能威胁小负鼠。"
+  },
+  {
+    "chunk_id": "opossum_bg_038",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_fact",
+    "topic": "defense_general",
+    "text": "负鼠遇到威胁时可能先用普通防御方式，例如逃走、爬到高处、张嘴露牙、发出嘶嘶声或散发难闻气味。"
+  },
+  {
+    "chunk_id": "opossum_bg_039",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "负鼠一动不动的状态常被叫作“装死”，但它不一定像演员一样主动表演。更准确地说，这是受到强烈威胁时出现的防御状态。"
+  },
+  {
+    "chunk_id": "opossum_bg_040",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "在一动不动的状态中，负鼠可能身体僵硬、嘴巴张开、呼吸变慢，看起来不像正常活动的动物。"
+  },
+  {
+    "chunk_id": "opossum_bg_041",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "defense_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "有些资料会说负鼠在这种状态下会散发难闻气味。这个气味可能让捕食者觉得它不是新鲜猎物。"
+  },
+  {
+    "chunk_id": "opossum_bg_042",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "recovery_fact",
+    "topic": "special_phenomenon_surface",
+    "text": "负鼠从一动不动的状态恢复，可能需要几分钟到更久。恢复时间会受到惊吓程度和周围危险情况影响。"
+  },
+  {
+    "chunk_id": "opossum_bg_043",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "breeding_fact",
+    "topic": "breeding",
+    "text": "小负鼠出生时很小很弱，会爬进妈妈的育儿袋，贴在乳头上继续发育。长大后才会离开育儿袋。"
+  },
+  {
+    "chunk_id": "opossum_bg_044",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "young_fact",
+    "topic": "breeding",
+    "text": "当小负鼠离开育儿袋但还不够独立时，可能会趴在妈妈背上移动。这个阶段说明它们还需要保护。"
+  },
+  {
+    "chunk_id": "opossum_bg_045",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "misconception_fact",
+    "topic": "critical_thinking",
+    "text": "看到动物一动不动，不能只凭第一眼判断它已经死亡。需要结合前后情境、是否遇到威胁、之后是否恢复活动来判断。"
+  },
+  {
+    "chunk_id": "opossum_bg_046",
+    "case_id": "opossum_play_dead_001",
+    "creature": "负鼠",
+    "chunk_type": "misconception_fact",
+    "topic": "critical_thinking",
+    "text": "负鼠的行为容易让人把“看起来像死了”和“真的死了”混在一起。科学判断要区分表面现象和背后的原因。"
+  }
+]
