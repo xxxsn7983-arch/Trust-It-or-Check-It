@@ -135,6 +135,10 @@ python -m uvicorn agent_project.dual_state_agent.api_server:app \
 - **多模态协作设计**：将对话、角色和卡牌生成组织为统一的游戏体验。
 - **实现取舍**：明确任务可控性、自然交互与知识可靠性之间的权衡。
 
+## 游戏演示
+
+[点击观看《Trust It or Check It》游戏演示](https://www.bilibili.com/video/BV1ACtT6NE8a/?spm_id_from=333.1387.homepage.video_card.click)
+
 ## 当前状态与局限
 
 本项目为研究与开发原型，不是生产服务。
